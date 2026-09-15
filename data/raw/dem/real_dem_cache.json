@@ -1,0 +1,3770 @@
+{
+  "25.30986_94.48215": {
+    "elevation_m": 1551.0,
+    "slope_deg": 30.34,
+    "aspect_deg": 250.02,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.76580_93.94130": {
+    "elevation_m": 807.0,
+    "slope_deg": 41.26,
+    "aspect_deg": 308.83,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.71310_94.08850": {
+    "elevation_m": 1413.0,
+    "slope_deg": 25.36,
+    "aspect_deg": 349.88,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.14190_94.10780": {
+    "elevation_m": 1173.0,
+    "slope_deg": 33.06,
+    "aspect_deg": 309.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.61600_94.11670": {
+    "elevation_m": 1591.0,
+    "slope_deg": 26.27,
+    "aspect_deg": 191.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.47690_94.13510": {
+    "elevation_m": 1674.0,
+    "slope_deg": 20.08,
+    "aspect_deg": 204.23,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.52150_93.16450": {
+    "elevation_m": 281.0,
+    "slope_deg": 3.93,
+    "aspect_deg": 165.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.88330_91.20000": {
+    "elevation_m": 255.0,
+    "slope_deg": 25.92,
+    "aspect_deg": 210.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.31790_94.04620": {
+    "elevation_m": 1007.0,
+    "slope_deg": 23.44,
+    "aspect_deg": 357.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.75000_93.43330": {
+    "elevation_m": 471.0,
+    "slope_deg": 23.43,
+    "aspect_deg": 247.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.09850_94.36190": {
+    "elevation_m": 1898.0,
+    "slope_deg": 8.98,
+    "aspect_deg": 71.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.57280_91.88500": {
+    "elevation_m": 1504.0,
+    "slope_deg": 8.98,
+    "aspect_deg": 71.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.72230_95.02430": {
+    "elevation_m": 696.0,
+    "slope_deg": 17.01,
+    "aspect_deg": 119.36,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.76250_93.43410": {
+    "elevation_m": 666.0,
+    "slope_deg": 34.91,
+    "aspect_deg": 229.84,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.09870_93.81600": {
+    "elevation_m": 215.0,
+    "slope_deg": 13.52,
+    "aspect_deg": 146.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.15530_93.02800": {
+    "elevation_m": 577.0,
+    "slope_deg": 21.61,
+    "aspect_deg": 104.62,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.53300_92.89900": {
+    "elevation_m": 809.0,
+    "slope_deg": 16.8,
+    "aspect_deg": 353.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.11750_92.85730": {
+    "elevation_m": 154.0,
+    "slope_deg": 9.87,
+    "aspect_deg": 286.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.59100_92.92960": {
+    "elevation_m": 803.0,
+    "slope_deg": 17.22,
+    "aspect_deg": 323.75,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.98290_93.50630": {
+    "elevation_m": 1305.0,
+    "slope_deg": 30.86,
+    "aspect_deg": 112.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.51250_93.36130": {
+    "elevation_m": 317.0,
+    "slope_deg": 6.65,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.31006_94.48265": {
+    "elevation_m": 1544.0,
+    "slope_deg": 31.05,
+    "aspect_deg": 221.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.99250_93.50000": {
+    "elevation_m": 1223.0,
+    "slope_deg": 11.39,
+    "aspect_deg": 155.56,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.64380_93.87100": {
+    "elevation_m": 1707.0,
+    "slope_deg": 28.18,
+    "aspect_deg": 354.64,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.82860_93.59350": {
+    "elevation_m": 732.0,
+    "slope_deg": 37.98,
+    "aspect_deg": 286.11,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.22980_94.09890": {
+    "elevation_m": 95.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 116.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.97030_91.85840": {
+    "elevation_m": 289.0,
+    "slope_deg": 11.35,
+    "aspect_deg": 228.37,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.51450_90.20230": {
+    "elevation_m": 314.0,
+    "slope_deg": 10.22,
+    "aspect_deg": 56.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.38000_91.88000": {
+    "elevation_m": 1307.0,
+    "slope_deg": 40.32,
+    "aspect_deg": 199.5,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.15480_91.73510": {
+    "elevation_m": 57.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 243.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.47900_92.96700": {
+    "elevation_m": 446.0,
+    "slope_deg": 17.78,
+    "aspect_deg": 207.9,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.89650_96.17790": {
+    "elevation_m": 209.0,
+    "slope_deg": 6.38,
+    "aspect_deg": 26.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.66820_94.10990": {
+    "elevation_m": 1437.0,
+    "slope_deg": 8.94,
+    "aspect_deg": 147.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.00400_93.98150": {
+    "elevation_m": 1458.0,
+    "slope_deg": 35.83,
+    "aspect_deg": 198.85,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.52420_92.99140": {
+    "elevation_m": 159.0,
+    "slope_deg": 16.43,
+    "aspect_deg": 137.29,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.68690_93.91570": {
+    "elevation_m": 780.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.90320_96.17400": {
+    "elevation_m": 208.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.41910_94.10790": {
+    "elevation_m": 1397.0,
+    "slope_deg": 11.5,
+    "aspect_deg": 124.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.87160_94.99210": {
+    "elevation_m": 284.0,
+    "slope_deg": 10.05,
+    "aspect_deg": 228.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.09748_91.87443": {
+    "elevation_m": 188.0,
+    "slope_deg": 33.84,
+    "aspect_deg": 55.12,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.40000_92.35000": {
+    "elevation_m": 2624.0,
+    "slope_deg": 27.34,
+    "aspect_deg": 20.77,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.35270_94.34290": {
+    "elevation_m": 286.0,
+    "slope_deg": 16.72,
+    "aspect_deg": 176.82,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.09770_94.74990": {
+    "elevation_m": 1553.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 56.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.07910_96.52420": {
+    "elevation_m": 556.0,
+    "slope_deg": 25.51,
+    "aspect_deg": 257.91,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.03190_94.54660": {
+    "elevation_m": 1557.0,
+    "slope_deg": 40.14,
+    "aspect_deg": 288.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.12490_93.77060": {
+    "elevation_m": 164.0,
+    "slope_deg": 27.37,
+    "aspect_deg": 93.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.16770_94.24420": {
+    "elevation_m": 777.0,
+    "slope_deg": 14.96,
+    "aspect_deg": 356.42,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.17400_95.80110": {
+    "elevation_m": 296.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.46590_95.86000": {
+    "elevation_m": 1063.0,
+    "slope_deg": 27.91,
+    "aspect_deg": 114.15,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.75050_93.42210": {
+    "elevation_m": 787.0,
+    "slope_deg": 10.76,
+    "aspect_deg": 37.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.44770_94.04890": {
+    "elevation_m": 1332.0,
+    "slope_deg": 24.69,
+    "aspect_deg": 43.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.28400_94.58080": {
+    "elevation_m": 726.0,
+    "slope_deg": 25.85,
+    "aspect_deg": 93.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14900_91.73510": {
+    "elevation_m": 53.0,
+    "slope_deg": 2.86,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.06720_93.40930": {
+    "elevation_m": 465.0,
+    "slope_deg": 14.04,
+    "aspect_deg": 323.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.19880_94.10160": {
+    "elevation_m": 1392.0,
+    "slope_deg": 22.37,
+    "aspect_deg": 21.37,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.87760_94.25000": {
+    "elevation_m": 961.0,
+    "slope_deg": 40.77,
+    "aspect_deg": 228.92,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14750_91.73560": {
+    "elevation_m": 54.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.90370_93.48700": {
+    "elevation_m": 1259.0,
+    "slope_deg": 34.16,
+    "aspect_deg": 335.32,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.45380_93.98270": {
+    "elevation_m": 1778.0,
+    "slope_deg": 24.59,
+    "aspect_deg": 10.49,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.11470_94.38640": {
+    "elevation_m": 355.0,
+    "slope_deg": 5.79,
+    "aspect_deg": 350.54,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.52020_92.72390": {
+    "elevation_m": 43.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.98180_93.51420": {
+    "elevation_m": 1251.0,
+    "slope_deg": 4.86,
+    "aspect_deg": 101.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19850_91.79980": {
+    "elevation_m": 81.0,
+    "slope_deg": 8.58,
+    "aspect_deg": 276.34,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62690_94.11390": {
+    "elevation_m": 1572.0,
+    "slope_deg": 14.27,
+    "aspect_deg": 121.61,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.42790_94.05640": {
+    "elevation_m": 896.0,
+    "slope_deg": 10.76,
+    "aspect_deg": 105.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.87270_94.92750": {
+    "elevation_m": 134.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 26.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.00110_93.72730": {
+    "elevation_m": 106.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 326.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.73270_92.74630": {
+    "elevation_m": 840.0,
+    "slope_deg": 27.61,
+    "aspect_deg": 300.65,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.20300_90.55730": {
+    "elevation_m": 146.0,
+    "slope_deg": 17.75,
+    "aspect_deg": 308.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19840_94.81580": {
+    "elevation_m": 1881.0,
+    "slope_deg": 29.21,
+    "aspect_deg": 63.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.46380_92.49430": {
+    "elevation_m": 101.0,
+    "slope_deg": 11.98,
+    "aspect_deg": 45.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.75407_92.74129": {
+    "elevation_m": 975.0,
+    "slope_deg": 22.37,
+    "aspect_deg": 158.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.08140_94.80300": {
+    "elevation_m": 950.0,
+    "slope_deg": 36.04,
+    "aspect_deg": 110.1,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.79020_94.13180": {
+    "elevation_m": 1286.0,
+    "slope_deg": 10.56,
+    "aspect_deg": 169.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.89610_93.49570": {
+    "elevation_m": 1069.0,
+    "slope_deg": 32.95,
+    "aspect_deg": 162.03,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.86690_92.35760": {
+    "elevation_m": 23.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.74280_93.91360": {
+    "elevation_m": 465.0,
+    "slope_deg": 19.79,
+    "aspect_deg": 76.61,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.35720_92.78780": {
+    "elevation_m": 1379.0,
+    "slope_deg": 9.32,
+    "aspect_deg": 293.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.61560_94.11603": {
+    "elevation_m": 1620.0,
+    "slope_deg": 30.1,
+    "aspect_deg": 198.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.43330_94.88330": {
+    "elevation_m": 556.0,
+    "slope_deg": 25.92,
+    "aspect_deg": 59.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.13140_91.75480": {
+    "elevation_m": 77.0,
+    "slope_deg": 7.83,
+    "aspect_deg": 75.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.16990_94.49220": {
+    "elevation_m": 1167.0,
+    "slope_deg": 37.48,
+    "aspect_deg": 47.64,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.23330_94.11670": {
+    "elevation_m": 88.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 333.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.12930_92.69210": {
+    "elevation_m": 829.0,
+    "slope_deg": 13.07,
+    "aspect_deg": 158.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.03562_94.01442": {
+    "elevation_m": 869.0,
+    "slope_deg": 24.17,
+    "aspect_deg": 211.33,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.38330_94.18840": {
+    "elevation_m": 1685.0,
+    "slope_deg": 23.77,
+    "aspect_deg": 330.52,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.16660_91.70420": {
+    "elevation_m": 236.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 317.49,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.09770_94.70310": {
+    "elevation_m": 1710.0,
+    "slope_deg": 31.05,
+    "aspect_deg": 48.37,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.48000_94.13830": {
+    "elevation_m": 1705.0,
+    "slope_deg": 17.66,
+    "aspect_deg": 222.88,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.79790_92.99740": {
+    "elevation_m": 28.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.10440_91.70820": {
+    "elevation_m": 54.0,
+    "slope_deg": 2.7,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.93360_93.82750": {
+    "elevation_m": 1033.0,
+    "slope_deg": 15.92,
+    "aspect_deg": 173.29,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.42050_94.97310": {
+    "elevation_m": 688.0,
+    "slope_deg": 24.63,
+    "aspect_deg": 250.91,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.10340_93.68850": {
+    "elevation_m": 146.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.48880_93.01530": {
+    "elevation_m": 549.0,
+    "slope_deg": 30.59,
+    "aspect_deg": 40.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.89900_94.14340": {
+    "elevation_m": 266.0,
+    "slope_deg": 12.23,
+    "aspect_deg": 247.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.01180_94.31360": {
+    "elevation_m": 1395.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 56.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.11930_95.16450": {
+    "elevation_m": 791.0,
+    "slope_deg": 40.39,
+    "aspect_deg": 304.62,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.10190_93.37290": {
+    "elevation_m": 1144.0,
+    "slope_deg": 4.04,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.23630_94.81330": {
+    "elevation_m": 1565.0,
+    "slope_deg": 13.26,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62780_94.10510": {
+    "elevation_m": 1527.0,
+    "slope_deg": 15.5,
+    "aspect_deg": 147.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.74183_92.71419": {
+    "elevation_m": 934.0,
+    "slope_deg": 17.01,
+    "aspect_deg": 29.36,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.01370_91.71740": {
+    "elevation_m": 29.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 26.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.22200_94.91520": {
+    "elevation_m": 1757.0,
+    "slope_deg": 29.21,
+    "aspect_deg": 63.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.01370_94.51630": {
+    "elevation_m": 1727.0,
+    "slope_deg": 6.85,
+    "aspect_deg": 303.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14070_91.76450": {
+    "elevation_m": 62.0,
+    "slope_deg": 2.86,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.80800_93.11700": {
+    "elevation_m": 41.0,
+    "slope_deg": 5.13,
+    "aspect_deg": 111.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.51140_90.21500": {
+    "elevation_m": 307.0,
+    "slope_deg": 7.42,
+    "aspect_deg": 50.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.88770_94.78610": {
+    "elevation_m": 1172.0,
+    "slope_deg": 6.65,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.66230_94.10720": {
+    "elevation_m": 1387.0,
+    "slope_deg": 10.56,
+    "aspect_deg": 169.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.96110_91.36810": {
+    "elevation_m": 182.0,
+    "slope_deg": 5.13,
+    "aspect_deg": 291.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.73390_93.91610": {
+    "elevation_m": 883.0,
+    "slope_deg": 13.82,
+    "aspect_deg": 241.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19780_91.76650": {
+    "elevation_m": 88.0,
+    "slope_deg": 17.57,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.81900_94.35510": {
+    "elevation_m": 1610.0,
+    "slope_deg": 28.73,
+    "aspect_deg": 340.46,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.46300_92.21210": {
+    "elevation_m": 1384.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 26.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.91110_94.47590": {
+    "elevation_m": 1831.0,
+    "slope_deg": 24.75,
+    "aspect_deg": 139.4,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.84580_95.22530": {
+    "elevation_m": 133.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.89860_91.75990": {
+    "elevation_m": 190.0,
+    "slope_deg": 6.72,
+    "aspect_deg": 261.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.52650_93.86730": {
+    "elevation_m": 1373.0,
+    "slope_deg": 24.48,
+    "aspect_deg": 23.75,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.10620_91.87170": {
+    "elevation_m": 248.0,
+    "slope_deg": 8.74,
+    "aspect_deg": 12.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.47880_94.13990": {
+    "elevation_m": 1644.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 259.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.50060_90.08960": {
+    "elevation_m": 47.0,
+    "slope_deg": 3.93,
+    "aspect_deg": 284.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.16620_91.71380": {
+    "elevation_m": 147.0,
+    "slope_deg": 22.62,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.83760_94.52340": {
+    "elevation_m": 804.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.04810_94.46190": {
+    "elevation_m": 866.0,
+    "slope_deg": 29.93,
+    "aspect_deg": 337.89,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.13240_91.83420": {
+    "elevation_m": 70.0,
+    "slope_deg": 3.81,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.87020_94.78440": {
+    "elevation_m": 1148.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 146.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.02140_94.52240": {
+    "elevation_m": 1622.0,
+    "slope_deg": 32.06,
+    "aspect_deg": 334.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.74590_93.42510": {
+    "elevation_m": 768.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 123.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.25680_92.38250": {
+    "elevation_m": 803.0,
+    "slope_deg": 5.55,
+    "aspect_deg": 300.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.88350_96.92620": {
+    "elevation_m": 976.0,
+    "slope_deg": 42.2,
+    "aspect_deg": 323.97,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.08220_96.53160": {
+    "elevation_m": 581.0,
+    "slope_deg": 31.43,
+    "aspect_deg": 11.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.12950_91.70560": {
+    "elevation_m": 144.0,
+    "slope_deg": 4.76,
+    "aspect_deg": 53.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.57180_94.12110": {
+    "elevation_m": 1625.0,
+    "slope_deg": 7.65,
+    "aspect_deg": 119.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.18070_94.54970": {
+    "elevation_m": 1648.0,
+    "slope_deg": 28.08,
+    "aspect_deg": 268.21,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19630_91.80740": {
+    "elevation_m": 174.0,
+    "slope_deg": 15.04,
+    "aspect_deg": 209.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.66330_94.47030": {
+    "elevation_m": 1452.0,
+    "slope_deg": 7.65,
+    "aspect_deg": 352.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.15900_91.81780": {
+    "elevation_m": 65.0,
+    "slope_deg": 8.1,
+    "aspect_deg": 249.44,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.33330_91.25000": {
+    "elevation_m": 42.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.72000_95.02900": {
+    "elevation_m": 689.0,
+    "slope_deg": 8.98,
+    "aspect_deg": 251.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.41920_94.10800": {
+    "elevation_m": 1393.0,
+    "slope_deg": 12.77,
+    "aspect_deg": 126.03,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.17180_93.12300": {
+    "elevation_m": 721.0,
+    "slope_deg": 11.35,
+    "aspect_deg": 355.24,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.42600_94.60240": {
+    "elevation_m": 1339.0,
+    "slope_deg": 12.05,
+    "aspect_deg": 51.34,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.00930_94.52380": {
+    "elevation_m": 1820.0,
+    "slope_deg": 20.99,
+    "aspect_deg": 214.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.16140_93.75250": {
+    "elevation_m": 153.0,
+    "slope_deg": 2.86,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.18680_91.67390": {
+    "elevation_m": 50.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 63.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.51615_94.23412": {
+    "elevation_m": 1648.0,
+    "slope_deg": 19.19,
+    "aspect_deg": 343.3,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.58360_93.00380": {
+    "elevation_m": 72.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.13330_93.96670": {
+    "elevation_m": 1012.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 296.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.55760_91.85060": {
+    "elevation_m": 1685.0,
+    "slope_deg": 5.55,
+    "aspect_deg": 120.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.06340_94.34150": {
+    "elevation_m": 1773.0,
+    "slope_deg": 28.91,
+    "aspect_deg": 5.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.83700_93.91280": {
+    "elevation_m": 798.0,
+    "slope_deg": 18.43,
+    "aspect_deg": 306.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.10320_93.68840": {
+    "elevation_m": 147.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 108.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.49160_91.26980": {
+    "elevation_m": 1493.0,
+    "slope_deg": 11.9,
+    "aspect_deg": 251.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.16300_94.00000": {
+    "elevation_m": 94.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.16190_91.76970": {
+    "elevation_m": 56.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.06040_93.98770": {
+    "elevation_m": 1516.0,
+    "slope_deg": 33.72,
+    "aspect_deg": 92.86,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.09510_92.35670": {
+    "elevation_m": 239.0,
+    "slope_deg": 24.17,
+    "aspect_deg": 344.93,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.27430_92.90640": {
+    "elevation_m": 644.0,
+    "slope_deg": 14.51,
+    "aspect_deg": 255.07,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.72380_89.90320": {
+    "elevation_m": 31.0,
+    "slope_deg": 9.37,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.98490_92.84110": {
+    "elevation_m": 264.0,
+    "slope_deg": 17.84,
+    "aspect_deg": 21.25,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.50070_93.98540": {
+    "elevation_m": 1431.0,
+    "slope_deg": 15.85,
+    "aspect_deg": 266.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.30690_93.12500": {
+    "elevation_m": 755.0,
+    "slope_deg": 27.36,
+    "aspect_deg": 104.93,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62630_94.10570": {
+    "elevation_m": 1520.0,
+    "slope_deg": 21.05,
+    "aspect_deg": 175.03,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.17370_94.75960": {
+    "elevation_m": 573.0,
+    "slope_deg": 25.07,
+    "aspect_deg": 175.91,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.08690_93.60860": {
+    "elevation_m": 317.0,
+    "slope_deg": 8.58,
+    "aspect_deg": 6.34,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.84470_93.05140": {
+    "elevation_m": 1089.0,
+    "slope_deg": 28.08,
+    "aspect_deg": 345.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.57720_91.86660": {
+    "elevation_m": 1479.0,
+    "slope_deg": 10.56,
+    "aspect_deg": 100.3,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.54980_92.07570": {
+    "elevation_m": 1266.0,
+    "slope_deg": 25.53,
+    "aspect_deg": 60.75,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.81420_93.54440": {
+    "elevation_m": 529.0,
+    "slope_deg": 33.93,
+    "aspect_deg": 228.01,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.04770_92.80100": {
+    "elevation_m": 185.0,
+    "slope_deg": 29.63,
+    "aspect_deg": 174.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.70224_94.04620": {
+    "elevation_m": 1016.0,
+    "slope_deg": 10.56,
+    "aspect_deg": 153.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.31850_94.52470": {
+    "elevation_m": 1167.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 206.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.18440_91.78960": {
+    "elevation_m": 63.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 236.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.24510_94.06910": {
+    "elevation_m": 1293.0,
+    "slope_deg": 27.79,
+    "aspect_deg": 214.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62370_94.11360": {
+    "elevation_m": 1604.0,
+    "slope_deg": 33.9,
+    "aspect_deg": 150.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.40720_94.06440": {
+    "elevation_m": 1174.0,
+    "slope_deg": 29.58,
+    "aspect_deg": 86.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.75270_92.69400": {
+    "elevation_m": 794.0,
+    "slope_deg": 28.46,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.13800_94.25000": {
+    "elevation_m": 1018.0,
+    "slope_deg": 13.04,
+    "aspect_deg": 300.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.99390_94.05730": {
+    "elevation_m": 979.0,
+    "slope_deg": 12.6,
+    "aspect_deg": 206.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.49349_91.72138": {
+    "elevation_m": 62.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 45.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.67000_94.10660": {
+    "elevation_m": 1445.0,
+    "slope_deg": 18.13,
+    "aspect_deg": 14.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.93560_93.84430": {
+    "elevation_m": 854.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.75430_93.50390": {
+    "elevation_m": 403.0,
+    "slope_deg": 18.43,
+    "aspect_deg": 143.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.71310_92.73620": {
+    "elevation_m": 894.0,
+    "slope_deg": 29.09,
+    "aspect_deg": 171.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.38970_94.94390": {
+    "elevation_m": 525.0,
+    "slope_deg": 3.81,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.14160_92.38070": {
+    "elevation_m": 162.0,
+    "slope_deg": 9.65,
+    "aspect_deg": 191.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.73479_92.72124": {
+    "elevation_m": 979.0,
+    "slope_deg": 24.69,
+    "aspect_deg": 133.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19610_91.78250": {
+    "elevation_m": 124.0,
+    "slope_deg": 11.8,
+    "aspect_deg": 241.39,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.07280_92.36360": {
+    "elevation_m": 133.0,
+    "slope_deg": 8.98,
+    "aspect_deg": 251.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.73130_92.71870": {
+    "elevation_m": 1029.0,
+    "slope_deg": 17.78,
+    "aspect_deg": 171.03,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.16040_93.67950": {
+    "elevation_m": 1094.0,
+    "slope_deg": 15.5,
+    "aspect_deg": 32.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.42980_95.87760": {
+    "elevation_m": 522.0,
+    "slope_deg": 15.9,
+    "aspect_deg": 20.56,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.52040_92.72640": {
+    "elevation_m": 46.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 225.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.01360_92.63510": {
+    "elevation_m": 224.0,
+    "slope_deg": 5.55,
+    "aspect_deg": 239.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.09980_93.62870": {
+    "elevation_m": 407.0,
+    "slope_deg": 6.85,
+    "aspect_deg": 56.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.17710_91.75990": {
+    "elevation_m": 82.0,
+    "slope_deg": 6.72,
+    "aspect_deg": 351.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.99860_95.49930": {
+    "elevation_m": 644.0,
+    "slope_deg": 28.18,
+    "aspect_deg": 84.64,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.77130_93.80670": {
+    "elevation_m": 238.0,
+    "slope_deg": 6.09,
+    "aspect_deg": 51.34,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.88370_93.05150": {
+    "elevation_m": 1590.0,
+    "slope_deg": 42.36,
+    "aspect_deg": 239.22,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.80630_93.94820": {
+    "elevation_m": 784.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.71760_92.84160": {
+    "elevation_m": 737.0,
+    "slope_deg": 24.24,
+    "aspect_deg": 177.88,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.70000_92.80000": {
+    "elevation_m": 2442.0,
+    "slope_deg": 18.26,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.50980_93.87940": {
+    "elevation_m": 1648.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 10.62,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.86280_94.41820": {
+    "elevation_m": 913.0,
+    "slope_deg": 33.8,
+    "aspect_deg": 288.89,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.97860_93.50270": {
+    "elevation_m": 1312.0,
+    "slope_deg": 17.84,
+    "aspect_deg": 21.25,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.29460_92.83390": {
+    "elevation_m": 892.0,
+    "slope_deg": 17.08,
+    "aspect_deg": 40.6,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.12260_91.71620": {
+    "elevation_m": 77.0,
+    "slope_deg": 15.42,
+    "aspect_deg": 244.98,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.58300_91.89300": {
+    "elevation_m": 1447.0,
+    "slope_deg": 6.92,
+    "aspect_deg": 344.05,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.60050_92.38140": {
+    "elevation_m": 91.0,
+    "slope_deg": 17.22,
+    "aspect_deg": 53.75,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.57990_91.85690": {
+    "elevation_m": 2754.0,
+    "slope_deg": 27.79,
+    "aspect_deg": 341.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.57540_91.97540": {
+    "elevation_m": 2407.0,
+    "slope_deg": 25.51,
+    "aspect_deg": 77.91,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.44000_92.28330": {
+    "elevation_m": 2615.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.20830_94.54380": {
+    "elevation_m": 1481.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 56.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.65960_93.97840": {
+    "elevation_m": 779.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 71.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.82660_94.14970": {
+    "elevation_m": 1402.0,
+    "slope_deg": 27.18,
+    "aspect_deg": 103.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.17680_91.77020": {
+    "elevation_m": 93.0,
+    "slope_deg": 35.02,
+    "aspect_deg": 205.35,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.89970_93.34970": {
+    "elevation_m": 869.0,
+    "slope_deg": 6.92,
+    "aspect_deg": 285.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.72810_92.71750": {
+    "elevation_m": 1081.0,
+    "slope_deg": 8.98,
+    "aspect_deg": 341.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.16000_93.68600": {
+    "elevation_m": 1026.0,
+    "slope_deg": 36.2,
+    "aspect_deg": 239.93,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.34330_92.28970": {
+    "elevation_m": 1205.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.57987_91.85672": {
+    "elevation_m": 2746.0,
+    "slope_deg": 24.81,
+    "aspect_deg": 334.36,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.10160_91.69060": {
+    "elevation_m": 118.0,
+    "slope_deg": 35.81,
+    "aspect_deg": 96.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.23150_92.67550": {
+    "elevation_m": 676.0,
+    "slope_deg": 8.74,
+    "aspect_deg": 229.4,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19650_91.76300": {
+    "elevation_m": 95.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 18.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.10280_91.88060": {
+    "elevation_m": 137.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 227.49,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.08380_94.56400": {
+    "elevation_m": 1836.0,
+    "slope_deg": 15.92,
+    "aspect_deg": 173.29,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.04200_92.67240": {
+    "elevation_m": 812.0,
+    "slope_deg": 7.59,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.12500_93.71450": {
+    "elevation_m": 129.0,
+    "slope_deg": 5.55,
+    "aspect_deg": 120.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.41600_94.09840": {
+    "elevation_m": 1377.0,
+    "slope_deg": 22.09,
+    "aspect_deg": 19.18,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.47860_94.13270": {
+    "elevation_m": 1754.0,
+    "slope_deg": 9.74,
+    "aspect_deg": 60.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.87820_94.17390": {
+    "elevation_m": 1356.0,
+    "slope_deg": 22.67,
+    "aspect_deg": 151.39,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.03180_92.45840": {
+    "elevation_m": 88.0,
+    "slope_deg": 19.47,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.53970_93.37830": {
+    "elevation_m": 1568.0,
+    "slope_deg": 9.46,
+    "aspect_deg": 306.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.10490_91.73690": {
+    "elevation_m": 156.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 227.49,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.36000_93.03850": {
+    "elevation_m": 404.0,
+    "slope_deg": 6.92,
+    "aspect_deg": 344.05,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.13090_91.83830": {
+    "elevation_m": 107.0,
+    "slope_deg": 9.32,
+    "aspect_deg": 156.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.30360_95.41120": {
+    "elevation_m": 1811.0,
+    "slope_deg": 42.38,
+    "aspect_deg": 170.54,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.15550_93.84740": {
+    "elevation_m": 1374.0,
+    "slope_deg": 42.22,
+    "aspect_deg": 262.61,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.27450_94.02120": {
+    "elevation_m": 1077.0,
+    "slope_deg": 12.23,
+    "aspect_deg": 247.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.73504_92.71061": {
+    "elevation_m": 947.0,
+    "slope_deg": 28.18,
+    "aspect_deg": 174.64,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.08880_92.85510": {
+    "elevation_m": 268.0,
+    "slope_deg": 25.92,
+    "aspect_deg": 95.91,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.04800_91.86950": {
+    "elevation_m": 74.0,
+    "slope_deg": 10.05,
+    "aspect_deg": 228.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.34390_93.07480": {
+    "elevation_m": 1329.0,
+    "slope_deg": 37.72,
+    "aspect_deg": 217.12,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.50840_90.21910": {
+    "elevation_m": 322.0,
+    "slope_deg": 19.37,
+    "aspect_deg": 31.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.71030_94.69300": {
+    "elevation_m": 689.0,
+    "slope_deg": 12.26,
+    "aspect_deg": 302.47,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.76790_93.41080": {
+    "elevation_m": 510.0,
+    "slope_deg": 21.05,
+    "aspect_deg": 4.97,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.72000_94.62190": {
+    "elevation_m": 1713.0,
+    "slope_deg": 47.09,
+    "aspect_deg": 310.6,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.01010_94.52820": {
+    "elevation_m": 1715.0,
+    "slope_deg": 13.42,
+    "aspect_deg": 192.09,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.68200_94.10760": {
+    "elevation_m": 1442.0,
+    "slope_deg": 7.23,
+    "aspect_deg": 23.2,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.73480_92.71870": {
+    "elevation_m": 1042.0,
+    "slope_deg": 16.05,
+    "aspect_deg": 100.01,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.21930_90.55490": {
+    "elevation_m": 272.0,
+    "slope_deg": 7.83,
+    "aspect_deg": 75.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.57480_91.86440": {
+    "elevation_m": 2689.0,
+    "slope_deg": 12.23,
+    "aspect_deg": 157.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.31800_94.04410": {
+    "elevation_m": 999.0,
+    "slope_deg": 9.46,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.70160_93.52910": {
+    "elevation_m": 663.0,
+    "slope_deg": 13.04,
+    "aspect_deg": 120.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.06330_92.80250": {
+    "elevation_m": 98.0,
+    "slope_deg": 19.37,
+    "aspect_deg": 238.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.67030_94.10950": {
+    "elevation_m": 1447.0,
+    "slope_deg": 20.99,
+    "aspect_deg": 177.51,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.70500_94.04000": {
+    "elevation_m": 1040.0,
+    "slope_deg": 15.9,
+    "aspect_deg": 159.44,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.31860_94.51210": {
+    "elevation_m": 1256.0,
+    "slope_deg": 11.04,
+    "aspect_deg": 289.98,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.11220_94.35910": {
+    "elevation_m": 1850.0,
+    "slope_deg": 17.78,
+    "aspect_deg": 8.97,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.72150_95.02830": {
+    "elevation_m": 719.0,
+    "slope_deg": 15.04,
+    "aspect_deg": 97.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.73650_92.71460": {
+    "elevation_m": 1019.0,
+    "slope_deg": 28.63,
+    "aspect_deg": 347.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.77050_92.52170": {
+    "elevation_m": 79.0,
+    "slope_deg": 8.94,
+    "aspect_deg": 32.01,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14980_94.60550": {
+    "elevation_m": 1710.0,
+    "slope_deg": 30.1,
+    "aspect_deg": 288.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14800_94.84220": {
+    "elevation_m": 1517.0,
+    "slope_deg": 32.67,
+    "aspect_deg": 98.97,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.51440_90.21670": {
+    "elevation_m": 318.0,
+    "slope_deg": 12.77,
+    "aspect_deg": 342.9,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.52000_91.27000": {
+    "elevation_m": 1348.0,
+    "slope_deg": 11.0,
+    "aspect_deg": 120.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19640_91.76520": {
+    "elevation_m": 80.0,
+    "slope_deg": 14.16,
+    "aspect_deg": 97.59,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.42650_94.19130": {
+    "elevation_m": 1310.0,
+    "slope_deg": 12.6,
+    "aspect_deg": 63.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.72989_92.71496": {
+    "elevation_m": 985.0,
+    "slope_deg": 22.68,
+    "aspect_deg": 4.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.18330_91.80000": {
+    "elevation_m": 68.0,
+    "slope_deg": 4.04,
+    "aspect_deg": 225.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.97020_91.85870": {
+    "elevation_m": 284.0,
+    "slope_deg": 8.94,
+    "aspect_deg": 237.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.49930_94.11920": {
+    "elevation_m": 1946.0,
+    "slope_deg": 13.92,
+    "aspect_deg": 47.73,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.52120_90.23200": {
+    "elevation_m": 583.0,
+    "slope_deg": 17.46,
+    "aspect_deg": 327.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.92780_94.09060": {
+    "elevation_m": 938.0,
+    "slope_deg": 11.9,
+    "aspect_deg": 108.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.96670_93.55000": {
+    "elevation_m": 572.0,
+    "slope_deg": 23.27,
+    "aspect_deg": 305.54,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.17750_93.01230": {
+    "elevation_m": 658.0,
+    "slope_deg": 15.29,
+    "aspect_deg": 52.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.30560_93.12650": {
+    "elevation_m": 316.0,
+    "slope_deg": 16.72,
+    "aspect_deg": 356.82,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.19410_94.44810": {
+    "elevation_m": 1728.0,
+    "slope_deg": 14.62,
+    "aspect_deg": 26.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.41960_94.10540": {
+    "elevation_m": 1398.0,
+    "slope_deg": 21.84,
+    "aspect_deg": 253.07,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.83000_94.13000": {
+    "elevation_m": 1018.0,
+    "slope_deg": 8.98,
+    "aspect_deg": 108.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.99260_93.49460": {
+    "elevation_m": 1140.0,
+    "slope_deg": 6.92,
+    "aspect_deg": 15.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.44950_92.81120": {
+    "elevation_m": 869.0,
+    "slope_deg": 32.25,
+    "aspect_deg": 167.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.79920_93.94800": {
+    "elevation_m": 785.0,
+    "slope_deg": 2.7,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.16650_91.70490": {
+    "elevation_m": 238.0,
+    "slope_deg": 14.93,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.33350_94.55120": {
+    "elevation_m": 1376.0,
+    "slope_deg": 11.8,
+    "aspect_deg": 298.61,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.95400_94.21560": {
+    "elevation_m": 931.0,
+    "slope_deg": 20.83,
+    "aspect_deg": 28.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.17960_93.00830": {
+    "elevation_m": 694.0,
+    "slope_deg": 5.13,
+    "aspect_deg": 111.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.43790_94.11620": {
+    "elevation_m": 1508.0,
+    "slope_deg": 18.37,
+    "aspect_deg": 287.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.70550_94.01320": {
+    "elevation_m": 1458.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 222.51,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.30340_93.80400": {
+    "elevation_m": 725.0,
+    "slope_deg": 44.49,
+    "aspect_deg": 194.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.30920_95.41490": {
+    "elevation_m": 1843.0,
+    "slope_deg": 46.83,
+    "aspect_deg": 333.03,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.94660_94.62790": {
+    "elevation_m": 1395.0,
+    "slope_deg": 24.12,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.22690_93.16580": {
+    "elevation_m": 396.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 71.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.72250_95.02810": {
+    "elevation_m": 699.0,
+    "slope_deg": 8.05,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.34810_94.11460": {
+    "elevation_m": 1007.0,
+    "slope_deg": 9.74,
+    "aspect_deg": 29.05,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14680_91.64690": {
+    "elevation_m": 60.0,
+    "slope_deg": 7.65,
+    "aspect_deg": 29.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.36120_92.28450": {
+    "elevation_m": 1227.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 213.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.61080_92.56200": {
+    "elevation_m": 34.0,
+    "slope_deg": 4.76,
+    "aspect_deg": 53.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.73540_90.38520": {
+    "elevation_m": 338.0,
+    "slope_deg": 6.85,
+    "aspect_deg": 33.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.81430_90.57630": {
+    "elevation_m": 63.0,
+    "slope_deg": 2.7,
+    "aspect_deg": 225.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.63962_94.11112": {
+    "elevation_m": 1501.0,
+    "slope_deg": 14.3,
+    "aspect_deg": 191.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.53080_92.51210": {
+    "elevation_m": 63.0,
+    "slope_deg": 12.6,
+    "aspect_deg": 116.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.72690_92.72650": {
+    "elevation_m": 865.0,
+    "slope_deg": 26.11,
+    "aspect_deg": 215.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.39080_94.09260": {
+    "elevation_m": 1312.0,
+    "slope_deg": 13.52,
+    "aspect_deg": 213.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.08960_91.46630": {
+    "elevation_m": 113.0,
+    "slope_deg": 6.09,
+    "aspect_deg": 128.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19660_91.80200": {
+    "elevation_m": 106.0,
+    "slope_deg": 10.39,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.47490_93.14770": {
+    "elevation_m": 151.0,
+    "slope_deg": 4.76,
+    "aspect_deg": 53.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.10970_91.77470": {
+    "elevation_m": 60.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 206.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.27530_94.66540": {
+    "elevation_m": 1158.0,
+    "slope_deg": 30.17,
+    "aspect_deg": 27.3,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.10010_91.68490": {
+    "elevation_m": 86.0,
+    "slope_deg": 23.12,
+    "aspect_deg": 128.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.23500_94.96120": {
+    "elevation_m": 312.0,
+    "slope_deg": 43.47,
+    "aspect_deg": 100.12,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.16990_91.79860": {
+    "elevation_m": 146.0,
+    "slope_deg": 3.93,
+    "aspect_deg": 284.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.94417_93.63948": {
+    "elevation_m": 939.0,
+    "slope_deg": 24.59,
+    "aspect_deg": 123.11,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.63380_91.92950": {
+    "elevation_m": 1379.0,
+    "slope_deg": 7.23,
+    "aspect_deg": 203.2,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.14587_95.23086": {
+    "elevation_m": 115.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.65003_91.58982": {
+    "elevation_m": 73.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.78106_95.31910": {
+    "elevation_m": 113.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 26.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.00984_92.89092": {
+    "elevation_m": 198.0,
+    "slope_deg": 9.46,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.27322_92.49028": {
+    "elevation_m": 2124.0,
+    "slope_deg": 34.5,
+    "aspect_deg": 165.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.30044_91.15800": {
+    "elevation_m": 388.0,
+    "slope_deg": 5.79,
+    "aspect_deg": 279.46,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.19294_92.38547": {
+    "elevation_m": 62.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.34623_92.48621": {
+    "elevation_m": 365.0,
+    "slope_deg": 17.55,
+    "aspect_deg": 198.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.61465_90.97239": {
+    "elevation_m": 896.0,
+    "slope_deg": 7.42,
+    "aspect_deg": 39.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.86713_91.59995": {
+    "elevation_m": 419.0,
+    "slope_deg": 18.31,
+    "aspect_deg": 130.91,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.17086_93.44026": {
+    "elevation_m": 1931.0,
+    "slope_deg": 21.68,
+    "aspect_deg": 326.98,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.70855_93.18026": {
+    "elevation_m": 1518.0,
+    "slope_deg": 29.21,
+    "aspect_deg": 333.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.85795_95.20270": {
+    "elevation_m": 2284.0,
+    "slope_deg": 27.32,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.80558_91.68292": {
+    "elevation_m": 291.0,
+    "slope_deg": 29.02,
+    "aspect_deg": 212.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.24159_94.00505": {
+    "elevation_m": 1158.0,
+    "slope_deg": 13.64,
+    "aspect_deg": 164.05,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.07520_93.28017": {
+    "elevation_m": 282.0,
+    "slope_deg": 23.2,
+    "aspect_deg": 256.5,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.98006_94.18744": {
+    "elevation_m": 1255.0,
+    "slope_deg": 21.26,
+    "aspect_deg": 279.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.53741_92.03287": {
+    "elevation_m": 65.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 153.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.81270_92.76898": {
+    "elevation_m": 185.0,
+    "slope_deg": 6.72,
+    "aspect_deg": 278.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.73230_93.26307": {
+    "elevation_m": 70.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 18.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.79857_89.81081": {
+    "elevation_m": 21.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.09984_90.36068": {
+    "elevation_m": 40.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 225.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.55693_95.73842": {
+    "elevation_m": 150.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.58963_94.18039": {
+    "elevation_m": 1488.0,
+    "slope_deg": 19.19,
+    "aspect_deg": 343.3,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.43126_93.20230": {
+    "elevation_m": 284.0,
+    "slope_deg": 4.26,
+    "aspect_deg": 243.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.08716_95.55079": {
+    "elevation_m": 777.0,
+    "slope_deg": 8.74,
+    "aspect_deg": 229.4,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.49822_93.52561": {
+    "elevation_m": 1289.0,
+    "slope_deg": 34.85,
+    "aspect_deg": 201.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.37175_91.48968": {
+    "elevation_m": 1570.0,
+    "slope_deg": 6.38,
+    "aspect_deg": 243.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.71857_92.72418": {
+    "elevation_m": 71.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 123.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.34629_93.42589": {
+    "elevation_m": 1788.0,
+    "slope_deg": 9.74,
+    "aspect_deg": 150.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.06934_93.40829": {
+    "elevation_m": 313.0,
+    "slope_deg": 17.78,
+    "aspect_deg": 278.97,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.50565_95.31038": {
+    "elevation_m": 125.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 153.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.13582_93.63416": {
+    "elevation_m": 838.0,
+    "slope_deg": 37.24,
+    "aspect_deg": 217.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.26582_95.30358": {
+    "elevation_m": 2022.0,
+    "slope_deg": 30.21,
+    "aspect_deg": 76.76,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.13975_93.39590": {
+    "elevation_m": 747.0,
+    "slope_deg": 15.85,
+    "aspect_deg": 49.76,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.78514_93.49305": {
+    "elevation_m": 456.0,
+    "slope_deg": 25.92,
+    "aspect_deg": 157.83,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.75020_94.39622": {
+    "elevation_m": 1269.0,
+    "slope_deg": 29.09,
+    "aspect_deg": 81.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.48453_94.94247": {
+    "elevation_m": 1078.0,
+    "slope_deg": 5.55,
+    "aspect_deg": 59.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.56205_91.72803": {
+    "elevation_m": 65.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.51735_93.81156": {
+    "elevation_m": 1020.0,
+    "slope_deg": 24.75,
+    "aspect_deg": 282.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.76204_91.47995": {
+    "elevation_m": 6.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.60207_93.12862": {
+    "elevation_m": 101.0,
+    "slope_deg": 9.32,
+    "aspect_deg": 113.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.13411_92.89650": {
+    "elevation_m": 750.0,
+    "slope_deg": 29.2,
+    "aspect_deg": 252.65,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.47227_91.93037": {
+    "elevation_m": 3742.0,
+    "slope_deg": 23.98,
+    "aspect_deg": 77.01,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.44724_91.68200": {
+    "elevation_m": 1607.0,
+    "slope_deg": 12.23,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.68746_94.71793": {
+    "elevation_m": 315.0,
+    "slope_deg": 34.25,
+    "aspect_deg": 248.46,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.00282_93.14978": {
+    "elevation_m": 111.0,
+    "slope_deg": 4.26,
+    "aspect_deg": 296.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.81609_94.27021": {
+    "elevation_m": 90.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 225.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.64060_94.10437": {
+    "elevation_m": 93.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.53763_93.93277": {
+    "elevation_m": 1694.0,
+    "slope_deg": 24.69,
+    "aspect_deg": 223.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.47584_92.25617": {
+    "elevation_m": 51.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.07948_90.48183": {
+    "elevation_m": 15.0,
+    "slope_deg": 4.04,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62365_90.40588": {
+    "elevation_m": 565.0,
+    "slope_deg": 14.3,
+    "aspect_deg": 168.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.40920_91.23247": {
+    "elevation_m": 42.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.70473_90.56594": {
+    "elevation_m": 108.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.82261_90.90196": {
+    "elevation_m": 412.0,
+    "slope_deg": 25.69,
+    "aspect_deg": 104.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.02970_93.12570": {
+    "elevation_m": 602.0,
+    "slope_deg": 15.85,
+    "aspect_deg": 40.24,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.16625_94.48820": {
+    "elevation_m": 1744.0,
+    "slope_deg": 21.94,
+    "aspect_deg": 245.56,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.61503_90.05854": {
+    "elevation_m": 110.0,
+    "slope_deg": 8.53,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.97693_91.04713": {
+    "elevation_m": 49.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.50649_93.20539": {
+    "elevation_m": 220.0,
+    "slope_deg": 11.35,
+    "aspect_deg": 41.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.22116_91.57808": {
+    "elevation_m": 2368.0,
+    "slope_deg": 49.49,
+    "aspect_deg": 190.67,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.88420_94.11276": {
+    "elevation_m": 84.0,
+    "slope_deg": 8.1,
+    "aspect_deg": 110.56,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.56191_94.23556": {
+    "elevation_m": 111.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 198.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.58667_93.77777": {
+    "elevation_m": 769.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 341.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.88129_93.09683": {
+    "elevation_m": 60.0,
+    "slope_deg": 5.55,
+    "aspect_deg": 210.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.96278_93.26248": {
+    "elevation_m": 156.0,
+    "slope_deg": 2.7,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.09521_95.23090": {
+    "elevation_m": 2226.0,
+    "slope_deg": 30.05,
+    "aspect_deg": 101.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.94049_91.53275": {
+    "elevation_m": 10.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.04312_94.26665": {
+    "elevation_m": 1122.0,
+    "slope_deg": 26.63,
+    "aspect_deg": 164.58,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.07753_94.42145": {
+    "elevation_m": 87.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.28495_91.37610": {
+    "elevation_m": 48.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.79863_89.92567": {
+    "elevation_m": 28.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 341.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.41669_90.86510": {
+    "elevation_m": 45.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.83923_92.75762": {
+    "elevation_m": 111.0,
+    "slope_deg": 3.81,
+    "aspect_deg": 270.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.21681_92.32596": {
+    "elevation_m": 61.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.41885_93.25000": {
+    "elevation_m": 651.0,
+    "slope_deg": 9.87,
+    "aspect_deg": 253.3,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.29075_95.12207": {
+    "elevation_m": 1345.0,
+    "slope_deg": 25.89,
+    "aspect_deg": 15.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.41316_93.21684": {
+    "elevation_m": 2412.0,
+    "slope_deg": 22.68,
+    "aspect_deg": 246.5,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62770_91.57159": {
+    "elevation_m": 1466.0,
+    "slope_deg": 11.65,
+    "aspect_deg": 104.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.42189_93.99490": {
+    "elevation_m": 112.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.59833_95.09775": {
+    "elevation_m": 1408.0,
+    "slope_deg": 31.97,
+    "aspect_deg": 55.89,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.98858_94.22134": {
+    "elevation_m": 82.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 33.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.24486_94.23985": {
+    "elevation_m": 1056.0,
+    "slope_deg": 18.52,
+    "aspect_deg": 95.71,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.33744_93.52365": {
+    "elevation_m": 1418.0,
+    "slope_deg": 44.53,
+    "aspect_deg": 51.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.98559_93.60823": {
+    "elevation_m": 212.0,
+    "slope_deg": 4.76,
+    "aspect_deg": 233.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.39824_95.04026": {
+    "elevation_m": 306.0,
+    "slope_deg": 33.32,
+    "aspect_deg": 300.47,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.53182_93.97399": {
+    "elevation_m": 100.0,
+    "slope_deg": 2.86,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.88090_95.15459": {
+    "elevation_m": 568.0,
+    "slope_deg": 25.16,
+    "aspect_deg": 207.47,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.97631_94.26101": {
+    "elevation_m": 87.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.99153_94.79232": {
+    "elevation_m": 1843.0,
+    "slope_deg": 37.09,
+    "aspect_deg": 75.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.56095_94.27838": {
+    "elevation_m": 1745.0,
+    "slope_deg": 23.98,
+    "aspect_deg": 282.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.22963_94.96375": {
+    "elevation_m": 531.0,
+    "slope_deg": 21.68,
+    "aspect_deg": 146.98,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.28314_95.08174": {
+    "elevation_m": 193.0,
+    "slope_deg": 7.83,
+    "aspect_deg": 255.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.99899_94.70088": {
+    "elevation_m": 91.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.26455_93.31944": {
+    "elevation_m": 840.0,
+    "slope_deg": 14.59,
+    "aspect_deg": 140.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.39521_93.92890": {
+    "elevation_m": 1632.0,
+    "slope_deg": 39.68,
+    "aspect_deg": 157.56,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.56071_93.62439": {
+    "elevation_m": 337.0,
+    "slope_deg": 18.63,
+    "aspect_deg": 98.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.79846_94.97137": {
+    "elevation_m": 604.0,
+    "slope_deg": 34.84,
+    "aspect_deg": 196.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.97042_94.29198": {
+    "elevation_m": 87.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.59404_94.09264": {
+    "elevation_m": 96.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.83948_94.11834": {
+    "elevation_m": 85.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.54365_94.24434": {
+    "elevation_m": 127.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.42838_94.26923": {
+    "elevation_m": 2131.0,
+    "slope_deg": 20.97,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.47382_94.71072": {
+    "elevation_m": 419.0,
+    "slope_deg": 26.74,
+    "aspect_deg": 55.78,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.21658_94.31338": {
+    "elevation_m": 1373.0,
+    "slope_deg": 4.76,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.54122_93.90823": {
+    "elevation_m": 2214.0,
+    "slope_deg": 41.29,
+    "aspect_deg": 213.39,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.90530_94.17210": {
+    "elevation_m": 831.0,
+    "slope_deg": 6.02,
+    "aspect_deg": 341.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.29083_93.64773": {
+    "elevation_m": 458.0,
+    "slope_deg": 16.23,
+    "aspect_deg": 193.24,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.12139_94.98172": {
+    "elevation_m": 739.0,
+    "slope_deg": 23.63,
+    "aspect_deg": 17.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.74314_93.66702": {
+    "elevation_m": 82.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14640_93.48528": {
+    "elevation_m": 825.0,
+    "slope_deg": 19.51,
+    "aspect_deg": 48.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.35364_94.89882": {
+    "elevation_m": 931.0,
+    "slope_deg": 32.43,
+    "aspect_deg": 85.49,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.88992_94.64251": {
+    "elevation_m": 2258.0,
+    "slope_deg": 37.48,
+    "aspect_deg": 358.75,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.13228_94.72054": {
+    "elevation_m": 1871.0,
+    "slope_deg": 24.86,
+    "aspect_deg": 142.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.05327_94.99662": {
+    "elevation_m": 1820.0,
+    "slope_deg": 31.22,
+    "aspect_deg": 121.5,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.66996_93.88893": {
+    "elevation_m": 86.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.91769_94.59652": {
+    "elevation_m": 1092.0,
+    "slope_deg": 40.32,
+    "aspect_deg": 19.5,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.48072_94.06320": {
+    "elevation_m": 95.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 296.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.03763_95.12531": {
+    "elevation_m": 2132.0,
+    "slope_deg": 32.11,
+    "aspect_deg": 349.29,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.83504_93.57939": {
+    "elevation_m": 81.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 243.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.53401_94.30464": {
+    "elevation_m": 243.0,
+    "slope_deg": 18.17,
+    "aspect_deg": 246.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.15260_93.68272": {
+    "elevation_m": 260.0,
+    "slope_deg": 27.63,
+    "aspect_deg": 99.16,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.60964_93.58425": {
+    "elevation_m": 89.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.51075_93.44643": {
+    "elevation_m": 208.0,
+    "slope_deg": 13.42,
+    "aspect_deg": 245.22,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.24322_94.55471": {
+    "elevation_m": 1699.0,
+    "slope_deg": 30.25,
+    "aspect_deg": 149.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.72725_94.18863": {
+    "elevation_m": 1010.0,
+    "slope_deg": 21.94,
+    "aspect_deg": 204.44,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.12839_94.54953": {
+    "elevation_m": 1541.0,
+    "slope_deg": 25.89,
+    "aspect_deg": 15.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.50044_94.77639": {
+    "elevation_m": 2229.0,
+    "slope_deg": 34.25,
+    "aspect_deg": 111.54,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.89590_94.02332": {
+    "elevation_m": 84.0,
+    "slope_deg": 2.86,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.77164_93.47800": {
+    "elevation_m": 63.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.58197_94.01031": {
+    "elevation_m": 2520.0,
+    "slope_deg": 8.1,
+    "aspect_deg": 69.44,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.36831_94.88677": {
+    "elevation_m": 1209.0,
+    "slope_deg": 34.99,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.93232_93.57477": {
+    "elevation_m": 100.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 161.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.80528_93.98314": {
+    "elevation_m": 83.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 45.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.38282_93.35736": {
+    "elevation_m": 459.0,
+    "slope_deg": 27.9,
+    "aspect_deg": 28.18,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.14585_94.19985": {
+    "elevation_m": 362.0,
+    "slope_deg": 18.52,
+    "aspect_deg": 275.71,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.98153_93.87935": {
+    "elevation_m": 147.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.64757_95.06756": {
+    "elevation_m": 1778.0,
+    "slope_deg": 29.54,
+    "aspect_deg": 28.07,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.47748_94.73855": {
+    "elevation_m": 2227.0,
+    "slope_deg": 37.64,
+    "aspect_deg": 276.2,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.86522_94.43782": {
+    "elevation_m": 1762.0,
+    "slope_deg": 16.8,
+    "aspect_deg": 186.34,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.34938_94.59568": {
+    "elevation_m": 814.0,
+    "slope_deg": 12.05,
+    "aspect_deg": 308.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.71036_94.87901": {
+    "elevation_m": 1157.0,
+    "slope_deg": 35.0,
+    "aspect_deg": 128.23,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.28948_93.71421": {
+    "elevation_m": 486.0,
+    "slope_deg": 14.76,
+    "aspect_deg": 145.3,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.65713_94.05122": {
+    "elevation_m": 1407.0,
+    "slope_deg": 30.26,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.29852_94.55910": {
+    "elevation_m": 1572.0,
+    "slope_deg": 16.0,
+    "aspect_deg": 305.54,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.76966_94.66846": {
+    "elevation_m": 1117.0,
+    "slope_deg": 31.46,
+    "aspect_deg": 60.64,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.53224_93.70694": {
+    "elevation_m": 184.0,
+    "slope_deg": 14.54,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.76519_95.02241": {
+    "elevation_m": 515.0,
+    "slope_deg": 4.26,
+    "aspect_deg": 296.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.90972_93.34873": {
+    "elevation_m": 250.0,
+    "slope_deg": 10.43,
+    "aspect_deg": 95.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.57000_94.36935": {
+    "elevation_m": 217.0,
+    "slope_deg": 10.05,
+    "aspect_deg": 131.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.22733_93.31170": {
+    "elevation_m": 745.0,
+    "slope_deg": 11.5,
+    "aspect_deg": 214.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.01248_94.46519": {
+    "elevation_m": 835.0,
+    "slope_deg": 20.81,
+    "aspect_deg": 105.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.72309_93.74089": {
+    "elevation_m": 335.0,
+    "slope_deg": 19.79,
+    "aspect_deg": 256.61,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.79597_93.41247": {
+    "elevation_m": 202.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 71.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.78514_94.44406": {
+    "elevation_m": 104.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.33426_93.45889": {
+    "elevation_m": 1640.0,
+    "slope_deg": 37.04,
+    "aspect_deg": 186.34,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.42500_93.57677": {
+    "elevation_m": 1287.0,
+    "slope_deg": 50.62,
+    "aspect_deg": 139.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.29239_93.54276": {
+    "elevation_m": 1463.0,
+    "slope_deg": 28.0,
+    "aspect_deg": 122.2,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.57904_94.26012": {
+    "elevation_m": 865.0,
+    "slope_deg": 20.85,
+    "aspect_deg": 66.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.69743_94.46197": {
+    "elevation_m": 723.0,
+    "slope_deg": 19.37,
+    "aspect_deg": 174.56,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.35187_93.35024": {
+    "elevation_m": 299.0,
+    "slope_deg": 3.93,
+    "aspect_deg": 75.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.23453_93.39511": {
+    "elevation_m": 1007.0,
+    "slope_deg": 36.25,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.94267_94.73385": {
+    "elevation_m": 1177.0,
+    "slope_deg": 29.58,
+    "aspect_deg": 176.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.97028_93.37354": {
+    "elevation_m": 1136.0,
+    "slope_deg": 20.81,
+    "aspect_deg": 344.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.42871_93.23145": {
+    "elevation_m": 251.0,
+    "slope_deg": 25.96,
+    "aspect_deg": 51.95,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.50120_94.31666": {
+    "elevation_m": 1645.0,
+    "slope_deg": 29.12,
+    "aspect_deg": 141.07,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.98090_94.51634": {
+    "elevation_m": 370.0,
+    "slope_deg": 6.02,
+    "aspect_deg": 108.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.88293_94.67324": {
+    "elevation_m": 417.0,
+    "slope_deg": 28.41,
+    "aspect_deg": 236.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.23867_93.24041": {
+    "elevation_m": 1143.0,
+    "slope_deg": 38.33,
+    "aspect_deg": 55.3,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.59403_94.23123": {
+    "elevation_m": 693.0,
+    "slope_deg": 36.37,
+    "aspect_deg": 264.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.55117_93.72689": {
+    "elevation_m": 886.0,
+    "slope_deg": 15.04,
+    "aspect_deg": 172.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.07492_93.35093": {
+    "elevation_m": 837.0,
+    "slope_deg": 37.79,
+    "aspect_deg": 351.35,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.41767_94.48825": {
+    "elevation_m": 172.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.37248_94.59278": {
+    "elevation_m": 1415.0,
+    "slope_deg": 29.69,
+    "aspect_deg": 105.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.39574_93.41491": {
+    "elevation_m": 563.0,
+    "slope_deg": 8.74,
+    "aspect_deg": 310.6,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.55894_93.31983": {
+    "elevation_m": 407.0,
+    "slope_deg": 16.0,
+    "aspect_deg": 305.54,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.94287_94.72232": {
+    "elevation_m": 294.0,
+    "slope_deg": 7.42,
+    "aspect_deg": 39.81,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.82469_93.89387": {
+    "elevation_m": 1272.0,
+    "slope_deg": 22.88,
+    "aspect_deg": 9.09,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.05178_94.07478": {
+    "elevation_m": 1139.0,
+    "slope_deg": 36.26,
+    "aspect_deg": 68.68,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.12733_94.48502": {
+    "elevation_m": 1842.0,
+    "slope_deg": 39.26,
+    "aspect_deg": 159.72,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.90743_93.62994": {
+    "elevation_m": 880.0,
+    "slope_deg": 25.49,
+    "aspect_deg": 233.53,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.00411_93.29487": {
+    "elevation_m": 1060.0,
+    "slope_deg": 17.78,
+    "aspect_deg": 171.03,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.30635_94.60926": {
+    "elevation_m": 283.0,
+    "slope_deg": 10.22,
+    "aspect_deg": 146.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.38156_93.10306": {
+    "elevation_m": 522.0,
+    "slope_deg": 28.22,
+    "aspect_deg": 244.23,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.53084_93.18662": {
+    "elevation_m": 128.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 227.49,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.61655_94.43630": {
+    "elevation_m": 410.0,
+    "slope_deg": 20.53,
+    "aspect_deg": 57.72,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.73809_94.79779": {
+    "elevation_m": 118.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.20911_93.97905": {
+    "elevation_m": 1201.0,
+    "slope_deg": 20.44,
+    "aspect_deg": 26.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.74188_94.06455": {
+    "elevation_m": 800.0,
+    "slope_deg": 5.71,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.83874_93.20748": {
+    "elevation_m": 78.0,
+    "slope_deg": 14.76,
+    "aspect_deg": 304.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.53294_94.66784": {
+    "elevation_m": 1115.0,
+    "slope_deg": 26.68,
+    "aspect_deg": 5.71,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.91467_93.63452": {
+    "elevation_m": 1021.0,
+    "slope_deg": 31.99,
+    "aspect_deg": 223.92,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.59477_94.76064": {
+    "elevation_m": 1863.0,
+    "slope_deg": 20.31,
+    "aspect_deg": 305.84,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.33761_94.68424": {
+    "elevation_m": 376.0,
+    "slope_deg": 15.85,
+    "aspect_deg": 93.37,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.45649_93.30147": {
+    "elevation_m": 347.0,
+    "slope_deg": 4.86,
+    "aspect_deg": 258.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.65487_94.35633": {
+    "elevation_m": 1956.0,
+    "slope_deg": 31.7,
+    "aspect_deg": 183.09,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.82623_93.20076": {
+    "elevation_m": 88.0,
+    "slope_deg": 3.81,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.17672_94.07133": {
+    "elevation_m": 1093.0,
+    "slope_deg": 29.92,
+    "aspect_deg": 100.01,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.40974_94.38551": {
+    "elevation_m": 963.0,
+    "slope_deg": 19.31,
+    "aspect_deg": 25.35,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.97426_94.37185": {
+    "elevation_m": 389.0,
+    "slope_deg": 12.6,
+    "aspect_deg": 206.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.15868_93.62492": {
+    "elevation_m": 914.0,
+    "slope_deg": 13.42,
+    "aspect_deg": 155.22,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.76747_94.54592": {
+    "elevation_m": 458.0,
+    "slope_deg": 11.8,
+    "aspect_deg": 208.61,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.99399_93.79588": {
+    "elevation_m": 1217.0,
+    "slope_deg": 27.03,
+    "aspect_deg": 231.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.42481_94.07507": {
+    "elevation_m": 1693.0,
+    "slope_deg": 11.65,
+    "aspect_deg": 345.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.49875_93.64035": {
+    "elevation_m": 1925.0,
+    "slope_deg": 15.42,
+    "aspect_deg": 295.02,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.24648_94.34794": {
+    "elevation_m": 170.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 146.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.72027_94.75786": {
+    "elevation_m": 164.0,
+    "slope_deg": 10.56,
+    "aspect_deg": 116.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.08183_94.20933": {
+    "elevation_m": 985.0,
+    "slope_deg": 13.92,
+    "aspect_deg": 317.73,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.16096_94.71859": {
+    "elevation_m": 1837.0,
+    "slope_deg": 33.29,
+    "aspect_deg": 203.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.00328_94.05735": {
+    "elevation_m": 904.0,
+    "slope_deg": 21.61,
+    "aspect_deg": 284.62,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.23851_93.95670": {
+    "elevation_m": 1234.0,
+    "slope_deg": 31.5,
+    "aspect_deg": 22.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.91221_93.30292": {
+    "elevation_m": 1534.0,
+    "slope_deg": 12.64,
+    "aspect_deg": 221.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.09012_93.05102": {
+    "elevation_m": 1442.0,
+    "slope_deg": 25.07,
+    "aspect_deg": 184.09,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.91001_94.58912": {
+    "elevation_m": 92.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.71904_92.14351": {
+    "elevation_m": 4195.0,
+    "slope_deg": 56.32,
+    "aspect_deg": 192.18,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.23872_92.79468": {
+    "elevation_m": 4898.0,
+    "slope_deg": 46.85,
+    "aspect_deg": 28.97,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.45380_94.46415": {
+    "elevation_m": 102.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 116.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.46299_92.54715": {
+    "elevation_m": 4512.0,
+    "slope_deg": 14.07,
+    "aspect_deg": 356.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.87614_95.37367": {
+    "elevation_m": 487.0,
+    "slope_deg": 25.24,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.32667_96.13483": {
+    "elevation_m": 395.0,
+    "slope_deg": 19.75,
+    "aspect_deg": 291.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.60996_95.28618": {
+    "elevation_m": 122.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 90.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.56346_93.53299": {
+    "elevation_m": 2136.0,
+    "slope_deg": 38.33,
+    "aspect_deg": 34.7,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.56730_96.03268": {
+    "elevation_m": 177.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.05335_94.49228": {
+    "elevation_m": 88.0,
+    "slope_deg": 6.72,
+    "aspect_deg": 188.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.32355_91.96628": {
+    "elevation_m": 4747.0,
+    "slope_deg": 0.0,
+    "aspect_deg": 0.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.13087_94.91745": {
+    "elevation_m": 1465.0,
+    "slope_deg": 31.7,
+    "aspect_deg": 93.09,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.75683_93.76886": {
+    "elevation_m": 727.0,
+    "slope_deg": 15.18,
+    "aspect_deg": 100.62,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.11302_92.92092": {
+    "elevation_m": 5145.0,
+    "slope_deg": 37.53,
+    "aspect_deg": 77.47,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.02493_95.56187": {
+    "elevation_m": 158.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 225.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.17449_93.73844": {
+    "elevation_m": 1512.0,
+    "slope_deg": 18.96,
+    "aspect_deg": 50.91,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.95592_92.94275": {
+    "elevation_m": 3073.0,
+    "slope_deg": 25.2,
+    "aspect_deg": 202.93,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.05452_96.32095": {
+    "elevation_m": 1284.0,
+    "slope_deg": 26.68,
+    "aspect_deg": 275.71,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.11955_94.41929": {
+    "elevation_m": 92.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 45.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.26784_94.54146": {
+    "elevation_m": 1132.0,
+    "slope_deg": 25.89,
+    "aspect_deg": 74.05,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.35297_95.05360": {
+    "elevation_m": 249.0,
+    "slope_deg": 30.3,
+    "aspect_deg": 266.73,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.94310_92.39027": {
+    "elevation_m": 4980.0,
+    "slope_deg": 29.02,
+    "aspect_deg": 212.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.13928_93.50228": {
+    "elevation_m": 1586.0,
+    "slope_deg": 51.34,
+    "aspect_deg": 196.26,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.03331_91.81562": {
+    "elevation_m": 2900.0,
+    "slope_deg": 39.45,
+    "aspect_deg": 263.02,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.69651_96.12068": {
+    "elevation_m": 271.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 161.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.34389_95.44768": {
+    "elevation_m": 128.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 146.31,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.16320_96.13767": {
+    "elevation_m": 1104.0,
+    "slope_deg": 30.97,
+    "aspect_deg": 88.41,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.55487_93.77388": {
+    "elevation_m": 1588.0,
+    "slope_deg": 18.26,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.03286_96.10314": {
+    "elevation_m": 1180.0,
+    "slope_deg": 29.42,
+    "aspect_deg": 108.97,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.34325_96.28773": {
+    "elevation_m": 4286.0,
+    "slope_deg": 21.87,
+    "aspect_deg": 274.76,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.59890_94.90884": {
+    "elevation_m": 109.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 333.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.61269_93.00873": {
+    "elevation_m": 1260.0,
+    "slope_deg": 25.38,
+    "aspect_deg": 71.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.64745_92.75764": {
+    "elevation_m": 69.0,
+    "slope_deg": 6.72,
+    "aspect_deg": 81.87,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.36443_96.26154": {
+    "elevation_m": 3550.0,
+    "slope_deg": 51.4,
+    "aspect_deg": 295.2,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.49959_95.56322": {
+    "elevation_m": 2612.0,
+    "slope_deg": 31.12,
+    "aspect_deg": 263.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "28.07603_94.35923": {
+    "elevation_m": 973.0,
+    "slope_deg": 16.92,
+    "aspect_deg": 99.46,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.61756_93.32790": {
+    "elevation_m": 77.0,
+    "slope_deg": 6.38,
+    "aspect_deg": 116.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.31209_91.90744": {
+    "elevation_m": 4178.0,
+    "slope_deg": 15.5,
+    "aspect_deg": 32.74,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "27.10040_93.97177": {
+    "elevation_m": 90.0,
+    "slope_deg": 5.13,
+    "aspect_deg": 68.2,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.87412_91.64886": {
+    "elevation_m": 363.0,
+    "slope_deg": 18.54,
+    "aspect_deg": 153.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.89660_92.37440": {
+    "elevation_m": 573.0,
+    "slope_deg": 12.54,
+    "aspect_deg": 192.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.53984_91.70007": {
+    "elevation_m": 1754.0,
+    "slope_deg": 2.7,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.17981_91.70494": {
+    "elevation_m": 95.0,
+    "slope_deg": 28.18,
+    "aspect_deg": 275.36,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.84994_92.35210": {
+    "elevation_m": 682.0,
+    "slope_deg": 19.37,
+    "aspect_deg": 5.44,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.63681_92.02824": {
+    "elevation_m": 971.0,
+    "slope_deg": 17.66,
+    "aspect_deg": 47.12,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.80934_91.07342": {
+    "elevation_m": 414.0,
+    "slope_deg": 26.93,
+    "aspect_deg": 221.01,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.04972_91.30955": {
+    "elevation_m": 47.0,
+    "slope_deg": 1.91,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.39851_90.70149": {
+    "elevation_m": 533.0,
+    "slope_deg": 7.65,
+    "aspect_deg": 7.13,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.67788_91.44972": {
+    "elevation_m": 1019.0,
+    "slope_deg": 15.61,
+    "aspect_deg": 342.65,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.08076_90.04399": {
+    "elevation_m": 32.0,
+    "slope_deg": 3.02,
+    "aspect_deg": 108.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.13179_91.41520": {
+    "elevation_m": 17.0,
+    "slope_deg": 2.13,
+    "aspect_deg": 206.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.88547_91.85801": {
+    "elevation_m": 604.0,
+    "slope_deg": 38.71,
+    "aspect_deg": 266.42,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.19749_92.41935": {
+    "elevation_m": 512.0,
+    "slope_deg": 14.59,
+    "aspect_deg": 140.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.74983_92.63691": {
+    "elevation_m": 562.0,
+    "slope_deg": 11.98,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.85464_92.25443": {
+    "elevation_m": 779.0,
+    "slope_deg": 11.0,
+    "aspect_deg": 239.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.06103_92.01410": {
+    "elevation_m": 261.0,
+    "slope_deg": 13.42,
+    "aspect_deg": 65.22,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62696_91.46393": {
+    "elevation_m": 1254.0,
+    "slope_deg": 27.51,
+    "aspect_deg": 50.19,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.73995_91.74910": {
+    "elevation_m": 737.0,
+    "slope_deg": 7.83,
+    "aspect_deg": 255.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.24926_91.16693": {
+    "elevation_m": 493.0,
+    "slope_deg": 44.29,
+    "aspect_deg": 123.15,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "26.09067_90.74435": {
+    "elevation_m": 46.0,
+    "slope_deg": 2.7,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.47136_92.02662": {
+    "elevation_m": 1520.0,
+    "slope_deg": 15.61,
+    "aspect_deg": 107.35,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.18874_91.74701": {
+    "elevation_m": 176.0,
+    "slope_deg": 19.31,
+    "aspect_deg": 272.73,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.92908_90.33198": {
+    "elevation_m": 98.0,
+    "slope_deg": 3.93,
+    "aspect_deg": 345.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.62174_92.41742": {
+    "elevation_m": 820.0,
+    "slope_deg": 8.1,
+    "aspect_deg": 69.44,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.33099_90.20636": {
+    "elevation_m": 113.0,
+    "slope_deg": 11.0,
+    "aspect_deg": 120.96,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.18488_92.19590": {
+    "elevation_m": 536.0,
+    "slope_deg": 11.5,
+    "aspect_deg": 325.01,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.98064_92.11229": {
+    "elevation_m": 370.0,
+    "slope_deg": 10.68,
+    "aspect_deg": 225.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "25.99403_92.59729": {
+    "elevation_m": 86.0,
+    "slope_deg": 3.44,
+    "aspect_deg": 33.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.54387_93.34878": {
+    "elevation_m": 1488.0,
+    "slope_deg": 29.63,
+    "aspect_deg": 275.04,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.23692_92.56482": {
+    "elevation_m": 739.0,
+    "slope_deg": 22.37,
+    "aspect_deg": 158.63,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.03176_92.94168": {
+    "elevation_m": 385.0,
+    "slope_deg": 31.14,
+    "aspect_deg": 245.56,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.47425_92.83508": {
+    "elevation_m": 818.0,
+    "slope_deg": 28.49,
+    "aspect_deg": 190.62,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.36467_93.11244": {
+    "elevation_m": 1521.0,
+    "slope_deg": 6.38,
+    "aspect_deg": 296.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.35916_93.14303": {
+    "elevation_m": 1209.0,
+    "slope_deg": 21.68,
+    "aspect_deg": 213.02,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.56249_93.07867": {
+    "elevation_m": 830.0,
+    "slope_deg": 12.64,
+    "aspect_deg": 221.99,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.10814_92.90849": {
+    "elevation_m": 508.0,
+    "slope_deg": 8.74,
+    "aspect_deg": 229.4,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.96309_93.20731": {
+    "elevation_m": 1072.0,
+    "slope_deg": 21.68,
+    "aspect_deg": 326.98,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.44767_92.32331": {
+    "elevation_m": 38.0,
+    "slope_deg": 0.95,
+    "aspect_deg": 180.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.05923_92.84591": {
+    "elevation_m": 210.0,
+    "slope_deg": 40.94,
+    "aspect_deg": 87.8,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.14138_92.54175": {
+    "elevation_m": 312.0,
+    "slope_deg": 11.35,
+    "aspect_deg": 318.37,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.83137_92.72469": {
+    "elevation_m": 792.0,
+    "slope_deg": 34.42,
+    "aspect_deg": 288.43,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.96665_92.57150": {
+    "elevation_m": 511.0,
+    "slope_deg": 35.02,
+    "aspect_deg": 357.27,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.91861_93.06470": {
+    "elevation_m": 263.0,
+    "slope_deg": 41.09,
+    "aspect_deg": 45.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.94052_92.72827": {
+    "elevation_m": 714.0,
+    "slope_deg": 35.02,
+    "aspect_deg": 177.27,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.02975_93.11475": {
+    "elevation_m": 660.0,
+    "slope_deg": 27.91,
+    "aspect_deg": 245.85,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.10046_93.29246": {
+    "elevation_m": 1223.0,
+    "slope_deg": 26.32,
+    "aspect_deg": 237.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.71442_93.22186": {
+    "elevation_m": 1933.0,
+    "slope_deg": 23.81,
+    "aspect_deg": 100.89,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.49611_92.60757": {
+    "elevation_m": 31.0,
+    "slope_deg": 2.7,
+    "aspect_deg": 135.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.27045_93.15545": {
+    "elevation_m": 901.0,
+    "slope_deg": 29.71,
+    "aspect_deg": 353.29,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.99007_92.58573": {
+    "elevation_m": 361.0,
+    "slope_deg": 16.43,
+    "aspect_deg": 137.29,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.51480_93.10142": {
+    "elevation_m": 696.0,
+    "slope_deg": 16.43,
+    "aspect_deg": 227.29,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "22.37967_93.13296": {
+    "elevation_m": 969.0,
+    "slope_deg": 22.49,
+    "aspect_deg": 139.9,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.43443_92.68387": {
+    "elevation_m": 538.0,
+    "slope_deg": 38.98,
+    "aspect_deg": 302.38,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.61366_93.27547": {
+    "elevation_m": 1228.0,
+    "slope_deg": 28.59,
+    "aspect_deg": 246.57,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "24.37278_92.79706": {
+    "elevation_m": 53.0,
+    "slope_deg": 1.35,
+    "aspect_deg": 315.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.59983_91.36588": {
+    "elevation_m": 33.0,
+    "slope_deg": 6.09,
+    "aspect_deg": 128.66,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.09163_92.20519": {
+    "elevation_m": 48.0,
+    "slope_deg": 4.04,
+    "aspect_deg": 45.0,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  },
+  "23.01097_91.94279": {
+    "elevation_m": 127.0,
+    "slope_deg": 6.85,
+    "aspect_deg": 213.69,
+    "dem_source": "NASA_USGS_SRTM_30m"
+  }
+}

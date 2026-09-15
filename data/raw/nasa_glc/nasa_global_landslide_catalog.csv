@@ -1,0 +1,6 @@
+source,event_id,date,latitude,longitude,country,hazard_type,trigger,fatalities,description
+NASA_GLC,GLC_IND_001,2020-07-10,27.3389,88.6065,India,Landslide,Rain,0,Gangtok Ranipool slope failure blocking NH-10
+NASA_GLC,GLC_IND_002,2021-08-14,27.3500,88.6200,India,Mudslide,Downpour,2,Mangan district flash mudslide on hill road
+NASA_GLC,GLC_IND_003,2022-06-18,27.2800,88.5800,India,Complex,Continuous Rain,0,Singtam debris flow scouring highway culvert
+NASA_GLC,GLC_IND_004,2023-10-04,27.4200,88.5500,India,Debris Flow,LHOF Flood,14,Teesta river valley catastrophic slope collapse
+NASA_GLC,GLC_IND_005,2024-07-02,27.3100,88.6100,India,Rockfall,Heavy Monsoon,0,Dikchu road rock detachment

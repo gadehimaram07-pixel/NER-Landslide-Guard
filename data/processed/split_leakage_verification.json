@@ -1,0 +1,37 @@
+{
+  "verification_timestamp": "2026-09-12T23:52:04.030791",
+  "total_samples": 40,
+  "spatial_split_strategy": {
+    "strategy_name": "Geographic Latitudinal Spatial Blocking",
+    "train_samples": 27,
+    "validation_samples": 8,
+    "test_samples": 5,
+    "min_distance_train_test_km": 12.26,
+    "spatial_buffer_threshold_km": 3.0,
+    "zero_leakage_verified": true,
+    "closest_train_test_pair": {
+      "train_sample": "ISRO-SKM-019",
+      "test_sample": "ISRO-SKM-012",
+      "distance_km": 12.26
+    }
+  },
+  "temporal_split_strategy": {
+    "strategy_name": "Chronological Cutoff (Walk-Forward)",
+    "train_samples": 23,
+    "validation_samples": 11,
+    "test_samples": 6,
+    "train_date_span": [
+      "2020-07-04",
+      "2022-09-15"
+    ],
+    "val_date_span": [
+      "2023-04-05",
+      "2024-02-18"
+    ],
+    "test_date_span": [
+      "2024-06-12",
+      "2025-07-02"
+    ],
+    "zero_temporal_leakage_verified": true
+  }
+}

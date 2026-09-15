@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-09-14T10:56:02Z",
+  "total_points_queried": 630,
+  "endpoint_probed": "https://rest.isric.org/soilgrids/v2.0/properties/query",
+  "probe_status": "API_503_SERVICE_TEMPORARILY_UNAVAILABLE",
+  "successful_extractions": 0,
+  "failed_extractions": 630,
+  "synthetic_substitutions_permitted": false,
+  "synthetic_substitutions_applied": 0,
+  "note": "Per Phase 2B strict safety rules, when external SoilGrids API fails, missing values are preserved as NaN."
+}

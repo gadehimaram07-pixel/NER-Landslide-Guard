@@ -1,0 +1,38 @@
+{
+  "product": "ESA WorldCover 2021 (10m)",
+  "discrete_classes": {
+    "10": {
+      "name": "Tree Cover / Forest",
+      "landslide_susceptibility_factor": 0.35
+    },
+    "20": {
+      "name": "Shrubland",
+      "landslide_susceptibility_factor": 0.55
+    },
+    "30": {
+      "name": "Grassland",
+      "landslide_susceptibility_factor": 0.65
+    },
+    "40": {
+      "name": "Cropland / Agriculture Terraces",
+      "landslide_susceptibility_factor": 0.75
+    },
+    "50": {
+      "name": "Built-up / Urban settlements",
+      "landslide_susceptibility_factor": 0.85
+    },
+    "60": {
+      "name": "Bare / Sparse Vegetation",
+      "landslide_susceptibility_factor": 0.95
+    },
+    "70": {
+      "name": "Snow and Ice",
+      "landslide_susceptibility_factor": 0.2
+    },
+    "80": {
+      "name": "Permanent Water Bodies",
+      "landslide_susceptibility_factor": 0.1
+    }
+  },
+  "encoding_strategy": "One-Hot Categorical Encoding for ML Pipelines"
+}
