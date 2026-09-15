@@ -1,0 +1,488 @@
+{
+  "generated_at": "2026-09-13T02:50:49.210873",
+  "total_samples": 48,
+  "available_samples": [
+    {
+      "sample_id": "ISRO-SKM-001",
+      "date": "2020-07-10",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-07-08",
+        "2020-07-09",
+        "2020-07-10"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-002",
+      "date": "2021-08-14",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-08-12",
+        "2021-08-13",
+        "2021-08-14"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-003",
+      "date": "2022-06-18",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-06-16",
+        "2022-06-17",
+        "2022-06-18"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-004",
+      "date": "2023-10-04",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-10-02",
+        "2023-10-03",
+        "2023-10-04"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-005",
+      "date": "2024-07-02",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-06-30",
+        "2024-07-01",
+        "2024-07-02"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-006",
+      "date": "2020-09-22",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-09-20",
+        "2020-09-21",
+        "2020-09-22"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-007",
+      "date": "2021-07-28",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-07-26",
+        "2021-07-27",
+        "2021-07-28"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-008",
+      "date": "2022-08-05",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-08-03",
+        "2022-08-04",
+        "2022-08-05"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-009",
+      "date": "2023-06-29",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-06-27",
+        "2023-06-28",
+        "2023-06-29"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-010",
+      "date": "2024-06-12",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-06-10",
+        "2024-06-11",
+        "2024-06-12"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-011",
+      "date": "2020-08-11",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-08-09",
+        "2020-08-10",
+        "2020-08-11"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-012",
+      "date": "2021-09-02",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-08-31",
+        "2021-09-01",
+        "2021-09-02"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-013",
+      "date": "2022-07-19",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-07-17",
+        "2022-07-18",
+        "2022-07-19"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-014",
+      "date": "2023-07-14",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-07-12",
+        "2023-07-13",
+        "2023-07-14"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-015",
+      "date": "2024-07-20",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-07-18",
+        "2024-07-19",
+        "2024-07-20"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-016",
+      "date": "2021-06-25",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-06-23",
+        "2021-06-24",
+        "2021-06-25"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-017",
+      "date": "2022-09-15",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-09-13",
+        "2022-09-14",
+        "2022-09-15"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-018",
+      "date": "2023-08-22",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-08-20",
+        "2023-08-21",
+        "2023-08-22"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-019",
+      "date": "2020-07-04",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-07-02",
+        "2020-07-03",
+        "2020-07-04"
+      ]
+    },
+    {
+      "sample_id": "ISRO-SKM-020",
+      "date": "2024-07-01",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-06-29",
+        "2024-06-30",
+        "2024-07-01"
+      ]
+    },
+    {
+      "sample_id": "GLC_IND_002",
+      "date": "2021-08-14",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-08-12",
+        "2021-08-13",
+        "2021-08-14"
+      ]
+    },
+    {
+      "sample_id": "GLC_IND_003",
+      "date": "2022-06-18",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-06-16",
+        "2022-06-17",
+        "2022-06-18"
+      ]
+    },
+    {
+      "sample_id": "GLC_IND_004",
+      "date": "2023-10-04",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-10-02",
+        "2023-10-03",
+        "2023-10-04"
+      ]
+    },
+    {
+      "sample_id": "GLC_IND_005",
+      "date": "2024-07-02",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-06-30",
+        "2024-07-01",
+        "2024-07-02"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-001",
+      "date": "2020-09-05",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-09-03",
+        "2020-09-04",
+        "2020-09-05"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-002",
+      "date": "2021-06-15",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-06-13",
+        "2021-06-14",
+        "2021-06-15"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-003",
+      "date": "2022-09-25",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-09-23",
+        "2022-09-24",
+        "2022-09-25"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-004",
+      "date": "2020-08-15",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-08-13",
+        "2020-08-14",
+        "2020-08-15"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-005",
+      "date": "2021-07-05",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-07-03",
+        "2021-07-04",
+        "2021-07-05"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-006",
+      "date": "2022-08-20",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-08-18",
+        "2022-08-19",
+        "2022-08-20"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-007",
+      "date": "2023-07-25",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-07-23",
+        "2023-07-24",
+        "2023-07-25"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-008",
+      "date": "2024-06-20",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-06-18",
+        "2024-06-19",
+        "2024-06-20"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-009",
+      "date": "2022-04-18",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-04-16",
+        "2022-04-17",
+        "2022-04-18"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-010",
+      "date": "2021-05-10",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-05-08",
+        "2021-05-09",
+        "2021-05-10"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-011",
+      "date": "2023-10-15",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-10-13",
+        "2023-10-14",
+        "2023-10-15"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-012",
+      "date": "2020-07-25",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-07-23",
+        "2020-07-24",
+        "2020-07-25"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-013",
+      "date": "2021-08-05",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-08-03",
+        "2021-08-04",
+        "2021-08-05"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-014",
+      "date": "2022-07-10",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-07-08",
+        "2022-07-09",
+        "2022-07-10"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-015",
+      "date": "2023-08-10",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-08-08",
+        "2023-08-09",
+        "2023-08-10"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-016",
+      "date": "2024-07-15",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-07-13",
+        "2024-07-14",
+        "2024-07-15"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-017",
+      "date": "2021-05-18",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-05-16",
+        "2021-05-17",
+        "2021-05-18"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-018",
+      "date": "2022-04-12",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-04-10",
+        "2022-04-11",
+        "2022-04-12"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-019",
+      "date": "2023-10-20",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-10-18",
+        "2023-10-19",
+        "2023-10-20"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-020",
+      "date": "2020-11-15",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2020-11-13",
+        "2020-11-14",
+        "2020-11-15"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-021",
+      "date": "2022-01-20",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2022-01-18",
+        "2022-01-19",
+        "2022-01-20"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-022",
+      "date": "2021-09-20",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2021-09-18",
+        "2021-09-19",
+        "2021-09-20"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-023",
+      "date": "2023-06-15",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2023-06-13",
+        "2023-06-14",
+        "2023-06-15"
+      ]
+    },
+    {
+      "sample_id": "NON-LANDSLIDE-BG-024",
+      "date": "2024-08-12",
+      "source": "NASA_POWER_SATELLITE_OBSERVATION",
+      "dates_retrieved": [
+        "2024-08-10",
+        "2024-08-11",
+        "2024-08-12"
+      ]
+    }
+  ],
+  "missing_samples": [],
+  "source_used": "auto"
+}

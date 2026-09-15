@@ -1,0 +1,25 @@
+sample_id,date,lat,lon,district,location,type,geology,trigger,label,elevation_m,slope_deg,min_distance_to_slide_km,target_split
+NON-LANDSLIDE-BG-001,2020-09-05,27.58,88.64,North Sikkim,Chungthang Broad Valley Plain (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,2361.4,4.08,0.96,TEST
+NON-LANDSLIDE-BG-002,2021-06-15,27.52,88.605,North Sikkim,Singhik River Terrace (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,2515.5,6.51,0.74,TEST
+NON-LANDSLIDE-BG-003,2022-09-25,27.485,88.585,North Sikkim,Kabi Lower Valley Flat (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,2387.7,6.32,1.04,TEST
+NON-LANDSLIDE-BG-004,2020-08-15,27.27,88.35,South Sikkim,Namchi Agricultural Terrace (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,280.0,2.16,0.68,VAL
+NON-LANDSLIDE-BG-005,2021-07-05,27.21,88.415,South Sikkim,Ravangla Lower Valley Bench (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,280.0,0.0,0.81,VAL
+NON-LANDSLIDE-BG-006,2022-08-20,27.295,88.235,West Sikkim,Pelling Gentle Plateau (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1118.2,9.27,0.82,VAL
+NON-LANDSLIDE-BG-007,2023-07-25,27.3,88.535,South Sikkim,Temi Gentle Valley Floor (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,978.6,9.04,0.63,VAL
+NON-LANDSLIDE-BG-008,2024-06-20,27.23,88.49,South Sikkim,Singtam Lower Fluvial Deposit (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,280.0,0.0,0.91,VAL
+NON-LANDSLIDE-BG-009,2022-04-18,27.25,88.52,South Sikkim,Majhitar River Bench (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,370.6,4.37,0.74,VAL
+NON-LANDSLIDE-BG-010,2021-05-10,27.18,88.505,South Sikkim,Rangpo Basin Flat (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,377.0,6.15,0.89,VAL
+NON-LANDSLIDE-BG-011,2023-10-15,27.22,88.25,West Sikkim,Dentam River Flat (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,454.2,5.38,7.93,VAL
+NON-LANDSLIDE-BG-012,2020-07-25,27.335,88.6,East Sikkim,Ranipool Valley Floor (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1936.7,4.74,0.77,TRAIN
+NON-LANDSLIDE-BG-013,2021-08-05,27.34,88.615,East Sikkim,Tadong Lower Terrace (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,2003.8,3.21,0.63,TRAIN
+NON-LANDSLIDE-BG-014,2022-07-10,27.325,88.59,East Sikkim,Deorali Gentle Bench (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1801.3,6.25,0.6,TRAIN
+NON-LANDSLIDE-BG-015,2023-08-10,27.36,88.62,East Sikkim,Burtuk Highway Col (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,2113.0,2.55,0.54,TRAIN
+NON-LANDSLIDE-BG-016,2024-07-15,27.35,88.565,East Sikkim,Ranka Valley Plain (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1952.6,6.93,0.63,TRAIN
+NON-LANDSLIDE-BG-017,2021-05-18,27.31,88.505,East Sikkim,Pakyong Alluvial Flat (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,918.3,8.43,3.67,TRAIN
+NON-LANDSLIDE-BG-018,2022-04-12,27.365,88.515,East Sikkim,Rumtek Gentle Bench (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1841.0,8.29,5.49,TRAIN
+NON-LANDSLIDE-BG-019,2023-10-20,27.33,88.605,East Sikkim,Ranipool East Riverbank (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1909.3,4.57,0.63,TRAIN
+NON-LANDSLIDE-BG-020,2020-11-15,27.315,88.595,East Sikkim,Mile 9 Lower Colluvium (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1745.8,6.35,0.69,TRAIN
+NON-LANDSLIDE-BG-021,2022-01-20,27.342,88.61,East Sikkim,Gangtok Lower Terrace (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,2017.5,3.33,0.43,TRAIN
+NON-LANDSLIDE-BG-022,2021-09-20,27.355,88.575,East Sikkim,Ranka Gentle Col (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,2060.3,5.73,0.52,TRAIN
+NON-LANDSLIDE-BG-023,2023-06-15,27.32,88.585,East Sikkim,Singtam Highway Bench (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1689.3,7.21,1.33,TRAIN
+NON-LANDSLIDE-BG-024,2024-08-12,27.338,88.602,East Sikkim,Ranipool North Fluvial Plain (Stable Reference),Stable Slope / Non-Landslide,Alluvial Terrace Deposit,None / Non-Failure Baseline,0,1973.1,4.27,0.46,TRAIN

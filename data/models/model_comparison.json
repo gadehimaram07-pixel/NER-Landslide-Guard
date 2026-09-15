@@ -1,0 +1,1262 @@
+[
+  {
+    "sample_id": "LS-POS-0451",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.3971,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.537,
+      "risk_level": "MODERATE"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.467,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0452",
+    "district": "Noney",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.7231,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.651,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.687,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0453",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.7095,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.596,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.653,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0454",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5124,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.789,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.651,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0455",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4349,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.62,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.527,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0456",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5183,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.744,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.631,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0457",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4023,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.518,
+      "risk_level": "MODERATE"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.46,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0458",
+    "district": "Noney",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.522,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.762,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.642,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0459",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.6151,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.446,
+      "risk_level": "MODERATE"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.531,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0460",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.6411,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.583,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.612,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0461",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.6372,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.58,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.609,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0462",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4988,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.653,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.576,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0463",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.7348,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.632,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.683,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0464",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4037,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.553,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.478,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0465",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5271,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.762,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.645,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0466",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5395,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.8,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.67,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0467",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.7134,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.627,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.67,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0468",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4245,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.625,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.525,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0469",
+    "district": "Noney",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4713,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.616,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.544,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0470",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5423,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.42,
+      "risk_level": "MODERATE"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.481,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0471",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.7036,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.627,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.665,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0472",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4335,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.565,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.499,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0473",
+    "district": "Noney",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4595,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.676,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.568,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0474",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4543,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.627,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.541,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0475",
+    "district": "Noney",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5105,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.784,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.647,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0476",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4959,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.689,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.592,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0477",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.6626,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.728,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.695,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0478",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.6509,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.646,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.648,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0479",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.6645,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.73,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.697,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0480",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5154,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.68,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.598,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0481",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5239,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.694,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.609,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0482",
+    "district": "Noney",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4765,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.697,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.587,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0483",
+    "district": "Imphal West",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.7192,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.623,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.671,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0484",
+    "district": "Tamenglong",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.5134,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.741,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.627,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "LS-POS-0485",
+    "district": "Noney",
+    "ground_truth_label": 1,
+    "physics_baseline": {
+      "score": 0.4604,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.676,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.568,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0486",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.4959,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.689,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.592,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0487",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5037,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.646,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.575,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0488",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5202,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.6,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.56,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0489",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0342,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.073,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.054,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0490",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5261,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.773,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.65,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0491",
+    "district": "Noney",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0325,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.067,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.05,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0492",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.3391,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.298,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.319,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0493",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.3928,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.426,
+      "risk_level": "MODERATE"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.409,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0494",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0325,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.05,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.041,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0495",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0325,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.051,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.042,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0496",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0604,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.108,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.084,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0497",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5076,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.685,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.596,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0498",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.1119,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.092,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.102,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0499",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5493,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.468,
+      "risk_level": "MODERATE"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.509,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0500",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5267,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.542,
+      "risk_level": "MODERATE"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.534,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0501",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0325,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.048,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.04,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0502",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0355,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.107,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.071,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0503",
+    "district": "Noney",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0325,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.031,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.032,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0504",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0381,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.09,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.064,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0505",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0342,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.083,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.059,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0506",
+    "district": "Noney",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.6333,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.581,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.607,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0507",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0572,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.065,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.061,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0508",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.3611,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.553,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.457,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0509",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5183,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.762,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.64,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0510",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.6528,
+      "risk_level": "HIGH"
+    },
+    "ml_model_prediction": {
+      "probability": 0.692,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.672,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0511",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0351,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.041,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.038,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0512",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0325,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.038,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.035,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0513",
+    "district": "Tamenglong",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.287,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.131,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.209,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0514",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.4968,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.634,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.565,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0515",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.5183,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.566,
+      "risk_level": "HIGH"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.542,
+      "risk_level": "MODERATE",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0516",
+    "district": "Noney",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0325,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.041,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.037,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0517",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0342,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.093,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.064,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0518",
+    "district": "Noney",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0585,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.039,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.049,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0519",
+    "district": "Noney",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.0342,
+      "risk_level": "LOW"
+    },
+    "ml_model_prediction": {
+      "probability": 0.082,
+      "risk_level": "LOW"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.058,
+      "risk_level": "LOW",
+      "alpha_ml_weight": 0.5
+    }
+  },
+  {
+    "sample_id": "NON-LS-BG-0520",
+    "district": "Imphal West",
+    "ground_truth_label": 0,
+    "physics_baseline": {
+      "score": 0.528,
+      "risk_level": "MODERATE"
+    },
+    "ml_model_prediction": {
+      "probability": 0.783,
+      "risk_level": "CRITICAL"
+    },
+    "hybrid_fused_risk": {
+      "score": 0.655,
+      "risk_level": "HIGH",
+      "alpha_ml_weight": 0.5
+    }
+  }
+]

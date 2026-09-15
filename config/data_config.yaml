@@ -1,0 +1,66 @@
+study_region:
+  name: Sikkim & NH-10 Corridor
+  state: Sikkim
+  country: India
+  crs: EPSG:4326
+  spatial_bounds:
+    min_latitude: 27.05
+    max_latitude: 28.15
+    min_longitude: 88.05
+    max_longitude: 88.95
+  districts:
+  - East Sikkim
+  - South Sikkim
+  - West Sikkim
+  - North Sikkim
+random_seed: 42
+paths:
+  raw:
+    isro_inventory: data/raw/isro/isro_landslide_atlas_sikkim.csv
+    nasa_glc: data/raw/nasa_glc/nasa_global_landslide_catalog.csv
+    srtm_dem: data/raw/srtm/srtm_sikkim_30m.npz
+    srtm_meta: data/raw/srtm/srtm_metadata.json
+    soilgrids: data/raw/soilgrids/soilgrids_sikkim_properties.csv
+    worldcover: data/raw/worldcover/esa_worldcover_sikkim_classes.json
+    imerg_dir: data/raw/imerg
+    sentinel1_dir: data/raw/sentinel1
+  processed:
+    isro_inventory: data/processed/isro_inventory.csv
+    background_samples: data/processed/background_samples.csv
+    quality_report: data/processed/dataset_quality_report.json
+    inventory_audit: data/processed/dataset_inventory_audit.json
+  features:
+    master_dataset: data/features/landslide_features.csv
+    training: data/features/training_dataset.csv
+    validation: data/features/validation_dataset.csv
+    test: data/features/test_dataset.csv
+    metadata: data/features/dataset_metadata.json
+sampling:
+  positive_negative_ratio: 1.0
+  min_buffer_from_scars_km: 1.7
+  max_slope_for_negatives_deg: 15.0
+  inter_fold_min_buffer_km: 3.5
+features:
+  terrain:
+  - elevation_m
+  - slope_deg
+  - aspect_deg
+  - terrain_ruggedness_index
+  hydrology:
+  - rainfall_24h_mm
+  - rainfall_72h_mm
+  - rainfall_surround_max_mm
+  soil:
+  - soil_clay_pct
+  - soil_sand_pct
+  - soil_silt_pct
+  - soil_bulk_density
+  - soil_ph
+  - soil_organic_carbon
+  landcover:
+  - lc_tree_cover
+  - lc_shrubland
+  - lc_grassland
+  - lc_cropland
+  - lc_builtup
+  - lc_sparse_vegetation

@@ -1,0 +1,13 @@
+{
+  "alpha": 0.50,
+  "ml_weight": 0.50,
+  "physics_weight": 0.50,
+  "risk_thresholds": {
+    "low": 0.35,
+    "moderate": 0.55,
+    "high": 0.75
+  },
+  "default_model": "RandomForestClassifier",
+  "fallback_mode": "PHYSICS_BASELINE",
+  "description": "Fusion parameters for combining Physics-Informed Limit Equilibrium with Real ML Probability."
+}
