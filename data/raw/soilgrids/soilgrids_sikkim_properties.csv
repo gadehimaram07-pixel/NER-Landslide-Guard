@@ -1,9 +1,0 @@
-district,zone_id,clay,sand,silt,bdod,ph,soc,soil_type
-East Sikkim,ZONE-SKM-01,28.5,44.2,27.3,1.34,5.4,24.2,Sandy Clay Loam
-North Sikkim,ZONE-SKM-02,18.2,58.6,23.2,1.48,5.1,18.5,Coarse Skeletal Soil
-South Sikkim,ZONE-SKM-03,34.1,32.4,33.5,1.28,5.8,29.1,Clayey Red Soil
-West Sikkim,ZONE-SKM-04,24.0,48.0,28.0,1.39,5.2,22.0,Silty Loam
-East Khasi Hills,ZONE-MEG-02,38.2,26.5,35.3,1.22,4.8,38.4,Silty Clay Loam
-Dima Hasao,ZONE-ASM-03,41.5,22.1,36.4,1.26,5.3,26.8,Lateritic Clay
-Kohima,ZONE-NGL-04,32.8,34.2,33.0,1.31,5.6,31.5,Disang Lateritic
-Aizawl,ZONE-MIZ-05,22.4,52.1,25.5,1.42,5.5,20.4,Loamy Sand
